@@ -1,6 +1,14 @@
 .header-text h1{
-    font-size: 4.5rem;
+    font-size: 4rem;
 }
 .container{
     padding: 40px;
 }
+.myrow .card{
+    border: none;
+  
+}
+/* .mycontainer {
+    position: absolute;
+    border: 5wh;
+} */
