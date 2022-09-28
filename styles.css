@@ -12,3 +12,47 @@
     position: absolute;
     border: 5wh;
 } */
+
+.newrow{
+    background-color:#a3d785;
+}
+.spacer
+{
+    margin-top: 30vh;
+}
+
+h3{
+    text-align: center;
+    font-size: larger;
+    
+}
+
+.newtxt{
+    text-align: center;
+    font-size: 30px;
+}
+
+.rawtxt{
+    text-align: center;
+    font-size:x-small;
+    
+}
+#mysect
+{
+    min-height: 100vh;
+}
+#wrapper-top
+{
+    position: absolute;
+    /* margin-top: 5vh; */
+    z-index: 99;
+}
+#wrapper-bottom{
+    position: absolute;
+    margin-top: 30vh;
+    min-height: 70vh;
+}
+.spacer_big
+{
+    min-height: 5vh;
+}
