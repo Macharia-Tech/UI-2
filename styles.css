@@ -148,3 +148,26 @@ html {
     border-radius: 0%;
 }
 
+.appsect{
+    font-size: larger;
+}
+
+.faqsect{
+    font-size: larger;
+    font-style: bold;
+}
+
+.free-advice {
+    display: flex;
+    border-radius: 25px;
+  }
+  
+.footer-input {
+    border-radius: 25px;
+  }
+.footer-input input {
+    border-radius: 25px;
+    border-style: none;
+    padding: 5px;
+    height: 40px;
+}
